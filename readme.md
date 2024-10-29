@@ -1,6 +1,6 @@
 # Points In Polygon
 
-Returns all the points inside a simple polygon using kD-tree.
+Returns all the points in a simple polygon using kD-tree.
 
 **Assumptions:**
 1. The polygon is a simple polygon with no intersecting sides or holes.
